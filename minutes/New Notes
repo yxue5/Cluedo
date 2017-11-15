@@ -1,0 +1,16 @@
+Layout
+
+Board- what does a board need-
+its a grid
+grids can be 2d arrays
+also needs to be 24x24
+
+
+
+
+
+Players- what are the characteristics of the players
+each player has:
+name
+color
+a list of cards
